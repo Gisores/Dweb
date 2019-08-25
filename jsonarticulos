@@ -1,0 +1,21 @@
+[
+        {
+          "Nombre" : "Bici Pocha ",
+          "Precio" :5000,
+	"Descripcion": ["Amarilla pocha",
+			"Anda pocha",]
+          
+	},
+	{
+          "Nombre" : "Bici Qfunk",
+          "Precio" :10000,
+	"Descripcion": ["Roja",
+          		"funk",]
+	},
+	{
+          "Nombre" : "Bici Pro ",
+          "Precio" :30000,
+	"Descripcion": ["Azul/negro",
+			"Es pro",]         
+	},
+	]
